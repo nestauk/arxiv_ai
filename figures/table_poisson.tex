@@ -1,0 +1,25 @@
+\documentclass{report}
+\usepackage{booktabs}
+\begin{document}\begin{center}
+\begin{tabular}{lclc}
+\toprule
+\textbf{Dep. Variable:} &        y         & \textbf{  No. Observations:  } &      701    \\
+\textbf{Model:}         &     Poisson      & \textbf{  Df Residuals:      } &      696    \\
+\textbf{Method:}        &       MLE        & \textbf{  Df Model:          } &        4    \\
+\textbf{Date:}          & Tue, 10 Jul 2018 & \textbf{  Pseudo R-squ.:     } &   0.3608    \\
+\textbf{Time:}          &     15:43:32     & \textbf{  Log-Likelihood:    } &   -207.87   \\
+\textbf{converged:}     &       True       & \textbf{  LL-Null:           } &   -325.22   \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lcccccc}
+                        & \textbf{coef} & \textbf{std err} & \textbf{z} & \textbf{P$>$$|$z$|$} & \textbf{[0.025} & \textbf{0.975]}  \\
+\midrule
+\textbf{intercept}      &      -3.6225  &        0.376     &    -9.645  &         0.000        &       -4.359    &       -2.886     \\
+\textbf{arxiv\_entropy} &       1.4927  &        0.270     &     5.520  &         0.000        &        0.963    &        2.023     \\
+\textbf{cb\_entropy}    &       0.8366  &        0.490     &     1.707  &         0.088        &       -0.124    &        1.797     \\
+\textbf{is\_china}      &       1.0942  &        0.171     &     6.413  &         0.000        &        0.760    &        1.429     \\
+\textbf{admin\_area}    &       0.0027  &        0.002     &     1.235  &         0.217        &       -0.002    &        0.007     \\
+\bottomrule
+\end{tabular}
+%\caption{Poisson Regression Results}
+\end{center}\end{document}
