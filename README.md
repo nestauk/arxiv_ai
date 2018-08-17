@@ -1,14 +1,19 @@
 # *NB: Open work-in-progess.*
 
-# Analysing AI and Deep Learning from ArXiv data 
+# Deep learning, deep change? Mapping the development of the Artificial Intelligence General Purpose Technology
 
-Some text about what this is
+Repo for the the working paper available [here](https://t.co/Md8jIx80Ou). Comments welcome.
+
 
 ## Datasets
 
 [Matched academic data, with CorEx topics](https://s3.eu-west-2.amazonaws.com/nesta-open-data/arxiv_ai/corex_matched_noOAG.json) (the output of `step4-grid_and_final_match.ipynb`)
 
 [Analysis outputs](not-implemented-yet) (the output of `step5-analysis.ipynb`)
+
+[CrunchBase industry proximities to arXiv topics] (not-added-yet)
+
+[CrunchBase year/industry/place df for estimating local activity] (not-added-yet) 
 
 
 ## Data dictionary
