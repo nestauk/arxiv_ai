@@ -11,9 +11,9 @@ Repo for the the working paper available [here](https://t.co/Md8jIx80Ou). Commen
 
 [Analysis outputs](not-implemented-yet) (the output of `step5-analysis.ipynb`)
 
-[CrunchBase industry proximities to arXiv topics] (not-added-yet)
+[CrunchBase industry proximities to arXiv topics] (https://s3.eu-west-2.amazonaws.com/nesta-open-data/arxiv_ai/arxiv_sector_proximities.csv)
 
-[CrunchBase year/industry/place df for estimating local activity] (not-added-yet) 
+[CrunchBase year/industry/place df for estimating local activity] (https://s3.eu-west-2.amazonaws.com/nesta-open-data/arxiv_ai/cb_processed.csv) 
 
 
 ## Data dictionary
